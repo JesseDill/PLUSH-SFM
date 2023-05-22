@@ -2,6 +2,8 @@
 
 **P**ractically **L**aughable, **U**n**S**uccessful, **H**aphazardous **S**tructure **F**rom **M**otion
 
+### Check pipeline details in the projects page
+
 ### Rough steps of SFM pipeline:
 
 1. feature point detection
